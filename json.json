@@ -1,0 +1,286 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "5454 S Shore Dr, Chicago, IL 60615, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7962274,
+               "lng" : -87.5815188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.79623005,
+                  "lng" : -87.5811975
+               },
+               "southwest" : {
+                  "lat" : 41.79621945000001,
+                  "lng" : -87.58162590000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5cb62af59c808f47106aa1bb8d13b70f094a303f",
+         "name" : "Shoreland",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 799,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103794238675346084699/photos\"\u003eShoreland\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHCI77L6EUgGm-jJyovjZDAjKR2aHTzkO9X0ho4Zj8T6GjyzhHMQWzNtjl2R4-6cYidzpDKeggInztpZgpbfkZRkbZqIOnAFtQvHPAwRpVb1kByFu9UAH3uFVjlvc6gYRJixUaim0ET4ig2VaADnmpKnK-oFjmc2bdKWlHtE_MNZEhCJYmv7lfaIgTKx7izp6Re5GhSblYNTcPh9HfSaZp4erk5Ba-ZV3w",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJd1VlGHUpDogRhEnQsEQLsi8",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAbF3crW79OQXRa3uok7QkuyhcQN73T_SKyNodujs-6trWHB8OMg9xbpXaIkJvx42TXWLHvRMXQmVcGFXaQk1PEHd5sUPjSJQdqbA_P9rCzpqAErgWGQv6YY8n4jfXH7HTEhDMPSG7HyeR7t93SrVLCN65GhR-IVXi24wEyT3AdpQVmLMvINan2w",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "141 W Jackson Blvd, Chicago, IL 60604, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.87782259999999,
+               "lng" : -87.63238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.87828295,
+                  "lng" : -87.63236545000001
+               },
+               "southwest" : {
+                  "lat" : 41.87766915,
+                  "lng" : -87.63242364999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "150d7b67b96a0eeb3fb8401b9620b59e0d2a37c4",
+         "name" : "Chicago Board of Trade Building",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110757688876490730027/photos\"\u003eKrystian Kulas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJpj6uySyYjRkq2dDiJBDO8qHNdymBxElwuozuAbmZsOB4w1vO8VZpGVL9OroFk_Z40bmrIg8weeSdqvt6WyxsXzNdfIihbIw2FVeQnezEJ6UATUCjtpNxPyBPwl3swtJhd-FiPCkRa2XQUb7G_Irq6Yy7azzYg42mttZA2PiHgbEhC8DXimjq-zpyuD84JjK0QtGhSJYkR6RljK-tLv9A414kyPrvTEVA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJxXdiNbwsDogRD9QuRBqUa_4",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAF-_1iuzhLZH0ohFmMKgodBKVYFaoroWi8cOZH-delbp9VcxPZwmhqZnuYo3EQNiVsT2hRHiefWCLiDS2I4m7NIaz6TEAQj-OkDA9NznwCq6OeK__MXP4yYLRt4LdcWwuEhBWWhgzVk_195eZ71V-qpAaGhQH-DntWZ04U1zB0X4ZMGZmqBFcqA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "53 W Jackson Blvd, Chicago, IL 60604, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8779787,
+               "lng" : -87.6295664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.87824044999999,
+                  "lng" : -87.62950909999998
+               },
+               "southwest" : {
+                  "lat" : 41.87789145000001,
+                  "lng" : -87.62958549999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e3316bedddb0cca4e6d1bcd594bc805949f41d49",
+         "name" : "Monadnock Building",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1687,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113990520132590032405/photos\"\u003eMonadnock Building\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIXzKA6g1yE1qnSzyCk3cCJ0k_LAL3qMr084NgWNfYXs714iwrxyLFrUShEGOLTi2z-bq6EvubslqLSTmEru2UFH0I791moDjI8dVSvbJ9Nmp17nPfwXl7zuA1tbUwNU2DpEkzg6CnxfSOY8gkhnO-UgSqqqrhSp0tudPvbhhakaEhAPe_cMx_ikX1Mix9A184siGhS9KVcKvcqEeDpPbM3YTTDvNtGVhg",
+               "width" : 1681
+            }
+         ],
+         "place_id" : "ChIJtWwe37wsDogRVIC0hVYvdMQ",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAQKFwrsQtPXZKxNsWSLGwwt_eE-le3HT4SHjnFho2yHJ7TCzlbWNMVygnnD9gWLb_J6-CAXI2-kuIhDYiktwCWg0o_cAs5LFeI-2eaukwhMT8jy8yUTSSUywNbNEXCTbgEhBcX92IKUKQcLFTdJ8iXo_uGhSvbpGNLBwYH992DmSDXswCWqIWWA",
+         "types" : [ "real_estate_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "233 S Wacker Dr, Chicago, IL 60606, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8788764,
+               "lng" : -87.6359149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.87927079999999,
+                  "lng" : -87.63452670000001
+               },
+               "southwest" : {
+                  "lat" : 41.8776932,
+                  "lng" : -87.63742029999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c0b6f3cfc6f0828bd9b35c7652cd18debf8d326",
+         "name" : "Willis Tower",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108909487405765899505/photos\"\u003eWillis Tower\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPPN00UBTDdBT1Zis9aokK9ifpqQLk2NJ6_YAofntEBkr274THtNRg3etKLykqisNq-Xj3ASu1rI5BvVKO9XPcvmZl2XbtoIx-2GHeoXQ79m5oTthLZo2vkdIE6-OJ5SYWoEqNJuuGKPYzDamcPASAhNBWlJ-wvMT9GMBXjrUB1cEhCoDt3hBO3xP-jTMc-aFGMpGhQ7et9wZVD8NftD86bzyXkxCV_ylA",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJu_tp4r4sDogRfYy4Xs5tDwE",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAqgEeYabi4V8qvB3LR6QFrU9gKrfw-qjd0THDyEpsStyNrD7AnWrwaUzSX1aqRwlMw13pG0AZq5H4U3piUq3Dy9d9gfWUk9L5GTcDlsE7HLXubFju8bJBCemJ2NaRFt1gEhDp8uZwAwZ0g3EBut9J1GQSGhTFQBTAM-vk31SEjyg9K-mu7GRc9g",
+         "types" : [ "premise", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3360 S State St, Chicago, IL 60616, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8331938,
+               "lng" : -87.62727489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.83323669999999,
+                  "lng" : -87.62632914999998
+               },
+               "southwest" : {
+                  "lat" : 41.83317950000001,
+                  "lng" : -87.62759014999997
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d8c9b2a303214d96a18ce48c0e224ac860142169",
+         "name" : "S. R. Crown Hall",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107559259764084751573/photos\"\u003eAhmad Atef\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANgmzgmjMBrhOxDgs68e9Pkzwe1T9qsWiEXrNl9bVY6GdgUmB7SvR1DpbiWwVyM4e2H_DJnqxyXQBDyz-v4mVDLTupvLhhZnmyBf5kEJal9fIN20oR-KdvYjqNFdefozD0n7-wMbLjtREe9CYhQVr5nVDuhEghf8QNlbz5rm1KkLEhBRgu7kz3IThechQ0VkLYz_GhRP5Eed8d4SPDDPCBK73sOyoBRE8Q",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJz8uyCg0sDogRD7rGqlEJIXA",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAASg4-X9OtcvDtOIe6FdRqQPkSoX0Pe9JxmrG7xBYu3zl3EtPEmdVtnFS9KhSrE7FW-znBQELQ3qqMsSxC_xp5gLPrfRJLCzZv7Yyw-aHOMyV-iLPh7DgBCQ6HaQTRtpW-EhByGDLmmZlgWxyEXTeK_TnhGhQZnGVklPzXYWcriWqxA01aYUQNcw",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5757 S Woodlawn Ave, Chicago, IL 60637, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.789841,
+               "lng" : -87.59592499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.78986344999999,
+                  "lng" : -87.59567759999999
+               },
+               "southwest" : {
+                  "lat" : 41.78977365,
+                  "lng" : -87.5966672
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "dedda6340d0d58de3cd39f7ad2fcc5b0629d7a79",
+         "name" : "Robie House",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2801,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117097951049015342211/photos\"\u003eRobie House\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPMZvVTDc1RhrrwQUOZYANCUxrZCYQwg6Xi0gx3SBNuK6aEMR2yZGvAUn870iaDhZUeqjcqR5Irlvwxqon9DGXr3NeJ2RcwZpke9jkvxU0kUDicTjdac7yU5KkNcpxQKuootbCXD-HU4ZPTipFZ3Z82e82gGyaBzvjyKk-tjrXt8EhBjkh6qvlTrSWtS9AqVmfdQGhQXhOoWRGmlYGj0MaFGgtugusDxWw",
+               "width" : 2804
+            }
+         ],
+         "place_id" : "ChIJUauIhBYpDogRO5eZR9KA1pM",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAwHAEJMFRbG6pO6zKXHB9xNqLU8jc8jtjH0bcrpwx2i90wwMX8y0BSQmqn31-jmmSJkV2By5qm_aGXz1TlzLtBs4r4sXCvtDSE9rizFtoiTAgbWbpoWXKFw0QwdwLV-y7EhDVUE9Ivz1bTIGlxY67dA0RGhTOgmeuhDl-eC5mHm-GQUUCJL3UrA",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "435 Michigan Avenue, Chicago, IL 60611, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8904377,
+               "lng" : -87.62358429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8904393,
+                  "lng" : -87.62335254999998
+               },
+               "southwest" : {
+                  "lat" : 41.8904329,
+                  "lng" : -87.62427955000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f66559056bf0009a52b143ff34e40a272fcc5673",
+         "name" : "Tribune Tower",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107773118974814850618/photos\"\u003eMike ValknWing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHjhfa63zWokapWb9ZgCyE7y_2yECDpLS7CMeYrkHqodvxr7gHR8puBAlztxfJ9WvSveaH2AGOp6m-rsz1_qsJNzKgEDfOddH2-0aMnhKDGrsYv-9v_FI17KYlzTJZtVh42iTngZT2JEQKVE6VjKaJ_MvJ4hSr9elNji-U8CZzNAEhDdAl-E1N5t-wzuhJNLqGZEGhSOVK3jeHnirMJpeinBH-O5v5V_7w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJr7zdAKwsDogRrMIKO4_-HT0",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAFF9Fo3kN1MQbSH9mEgjiklz1UKtiqu2JWd1iDZfcLySlJDpUQiSHVy2ZRaeGuGPMbrMOujGd6Lb_3PHG9vuSpue6YrdOqRMIeQWhHy4hvvITSXJa9XdzY1T34ROEPufWEhBazJHea90xrhQRMa0Y9fh4GhRMQeT20e9X6d8RWs0yUcZS_mBaZg",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

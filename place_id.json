@@ -1,0 +1,328 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3360",
+            "short_name" : "3360",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "South State Street",
+            "short_name" : "S State St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bronzeville",
+            "short_name" : "Bronzeville",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Chicago",
+            "short_name" : "Chicago",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cook County",
+            "short_name" : "Cook County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Illinois",
+            "short_name" : "IL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "60616",
+            "short_name" : "60616",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3360 S State St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eChicago\u003c/span\u003e, \u003cspan class=\"region\"\u003eIL\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e60616\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "3360 S State St, Chicago, IL 60616, USA",
+      "formatted_phone_number" : "(312) 567-3230",
+      "geometry" : {
+         "location" : {
+            "lat" : 41.8331938,
+            "lng" : -87.62727489999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 41.83323669999999,
+               "lng" : -87.62632914999998
+            },
+            "southwest" : {
+               "lat" : 41.83317950000001,
+               "lng" : -87.62759014999997
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d8c9b2a303214d96a18ce48c0e224ac860142169",
+      "international_phone_number" : "+1 312-567-3230",
+      "name" : "S. R. Crown Hall",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 3:00 PM",
+            "Sunday: 9:00 AM – 3:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 750,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107559259764084751573/photos\"\u003eAhmad Atef\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAB3XTgVFc13GEXZ-t70Y9MdLuFJYf4kLBFvrNJ9Q4y5NMxNh3EOwlIzGBYZutxX81Y0d4MMeJFFtjfevpdKTXNr2Xate6qrPGRXfPf5zVmz19gCuBUegP_nnt3NmxahHEOykXWoJ2Tl5xZxZgi3obW80dE6b4YxnAHffSx9JccvNEhDaql_HrwjiUG7SGowTYPg2GhSQ6-CZKo0B3YRvBH-nf3AmC9U_iQ",
+            "width" : 1000
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109307769997370067637/photos\"\u003ePuripant Ruchikachorn\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAAhU8ZtLw9Sq9DwjxtsqAexUNM0vtwErEkYL1DexpO5fy-ANapOfsSieRsc1tRqKUM-4_S6CLy7mqHjol52-9m3Tf7Tg1VV67FKpctWQ_411LObW6SArgVU_VHL24n_Xw_3uiZXvyvn492GlBdUwlMA_IZFCVWnHmsfIsp9ULAchEhDG9OqTJhrAFzp3EHE1FVfwGhQxh-5VKqvFFgrpZuN1Qd-i9yQDJw",
+            "width" : 1600
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104910028874779373688/photos\"\u003espencer baugh\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAALT8dao0WKlMPzP5xII_3sNY2S1mDvU5n2zEfBcXKsUYI5Y5oYSSyUdELvZ8qp_U5nOi0Thw0Kb1S-vw6NnG00qVj7xGzN7K4ADGojxpZjWou_h5fVpSzua2PvOMEshvxBn9Q5dFKBhd1EowXP__n9kQyQ1xMlyXkl_vv04nToDMEhAEDHp-8BAnWYOrDrXXQanJGhR6CCAfBRGzrxLanncXKAVqWV6sKA",
+            "width" : 720
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100353869548703141200/photos\"\u003eIhap Hassan Hejaz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAOfZY702oSn2IaCzA2PZntohaQ6AqPTjamnBq4wki65C-1Ah41zvGpac8FCFhUS8WRdQPRtQFvhQPk2kqOuNkGrTEdRCls_5-fUgNvlsf4vgow3s0ryQbFyUtLtTH_P_J374sX6tgIp27AYA9X4CUC0HGOy7d73akZ5hbBR_MXcXEhCALFcCb0tp981l93Wl1kJFGhSBmYkcVPdQAkZqnxtGTmOhZy_9lw",
+            "width" : 5312
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117885594093719689890/photos\"\u003eDestini&#39; Reavis\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAIgma56Vqt_0ujOEksDjTHUbTnBYJut_Rs2P5Cg37Xtf7FHYqUB0-uwHDeeWHJTxYCbr2VoE_n4ltU7aDICwYm5rkHEjnSOhfcp4lGKqTJpnImccxMuoD56HkZF7jKjJFH0SMRR5aKrPSJAZv9DG1kWWBc4RWWKgzX-GvtnQgs0nEhChZczfGC3QSVF4uzymPCQRGhSoSD5-MsaSxWaCBexA3arAStv2Og",
+            "width" : 2322
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111640637688768809233/photos\"\u003eCharles MacEachen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAMmBynB6uutixNNXNcmlm9LOkHVhWmCzn1AviCXyF4vN8UVoDmfn-_iCtZHPVY-SCDxdYvV8WpoHk4yaRyZhSnbbZNC3kQyB2lFIjzQffGguytu4LGVfXaGSET21XsEuAfQ9HVZVjRuykUKvcVfEmDNlZdDsB8x2oBRqk2UWusC7EhDKjiQg8KQt1PMky8v5R_T7GhTfGsDD_8DFuhmGOCwoRHxy2FHVRw",
+            "width" : 3872
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117885594093719689890/photos\"\u003eDestini&#39; Reavis\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAGUuHdAyOUq3XedH5w-ir3ipDjpUYEc3ltv--FEHEjKnFVkBypbpb9K_UTyacTG6lHuuZpUD44UI-MV36hn9ggqOcJ4xvK_cxNsgUbaO54o8IdV5VeFbQs7tLYrlH5J5mIzDwckwf_ewmn8knYshKft82x9la1h_KXD97oifgtw_EhA8ufYCvFxuXMsh-7IjWby2GhTAD17d67HXmHMz4f87yzywjX6TJQ",
+            "width" : 2322
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117885594093719689890/photos\"\u003eDestini&#39; Reavis\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAADdDuKnNAxV5kqdl4Wo_rA7sUvzFpt8VGm1B5t1ShFqquaNAKQK2jFIxf7l-kU3wS11iLBGvcjP7Zol410wrLMGpFKwRt4jJIx7cZdqtDnfEOH4DNo8wpkg36NYyXQmDh48T00l4wY2NSqZhUp8Ao97pvUEu4YwhfaYdBMaBIYccEhBnNdcm090neTHlnQGLG3L6GhSxDyWXXF_CDINOXZTqFMg4aQzQKg",
+            "width" : 2322
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105850910789054356620/photos\"\u003eArian Saeedfar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAABan80pYnpX6Auj9B6ginf27jvn1H1IArgeRcc_PhIoulGZc2ZjfbqTmizdhGfEAAlHduwtLy1RK7v8IebrAMD0f3EYaTM5_pa0dw3RXdicudWZnh-_41M3t9MoxD1SVqmV_SwtvfUbgCMSRICo9WJMQ4A7v2CJXHbDXZI3mlxG2EhCvHwsAqhDFtt8eA3Nq0XmPGhRbaTjGfYMk-KHzPPrQ-4bQHdMvoQ",
+            "width" : 4032
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103253684228028948419/photos\"\u003eAndré Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAADBhf18fu3M4SwGtrxcwlBRu8xQ-G43E65euCROcZY1oO6nYazkwoUHnsH_81sFc3hJz4kX4jRQ7xGUBhkFM5WtIjLEgYCPjWwcTt84rMsSQf90I7kbe2AP5LS_UupRi9Fw_9X60emOC_S6rRhOTrhEkTNlqWQ0aRt3vY0fEQZFQEhBRKDFwjR17WtD-1OcwQkGdGhQFrMWE1A7wziMmg_DU9bb5PEcNVg",
+            "width" : 2592
+         }
+      ],
+      "place_id" : "ChIJz8uyCg0sDogRD7rGqlEJIXA",
+      "rating" : 4.8,
+      "reference" : "CmRRAAAAcUHR_YGY5IfAAgK1pNnSQr688kxiHKQGJtgl2yrv53hGz_sUYSMRymrlpbHx6c9O62aKtcOr6N-2ECjfTFuko9BjeEg2hA8IqyuH6soLjdsMGBpCNQG1IdWCgY8F3V80EhC9UpHYrWhE6dzRM6WU72jCGhSCKCc2ySfMKmnZVJR9D9IGCN7LeQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joshua Slate",
+            "author_url" : "https://www.google.com/maps/contrib/109641352909836557423/reviews",
+            "language" : "en",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-JDWLkyWNjG8/AAAAAAAAAAI/AAAAAAAADPU/9efFU4X5ZQY/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Influential architecture school building on the historic register. Designed and build by Mies Van Der Rohe",
+            "time" : 1475349006
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nicholas Cecchi",
+            "author_url" : "https://www.google.com/maps/contrib/107184707075638950630/reviews",
+            "language" : "en",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-GOcxOSjWuH8/AAAAAAAAAAI/AAAAAAAAoUU/4vfOUFFWDeo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "5 months ago",
+            "text" : "Surpassed only by Farnsworth House and perhaps Seagram Building, this is one of Mies greatest works. A must see. Sunrise and sunset a particularly good times to photograph this building - the south facade reflects the strong dawn/dusk colors perfectly.",
+            "time" : 1465688690
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Arian Saeedfar",
+            "author_url" : "https://www.google.com/maps/contrib/105850910789054356620/reviews",
+            "language" : "en",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-KmDvZWtkc0w/AAAAAAAAAAI/AAAAAAAAQLY/_05btHyR6fc/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "A masterpiece by great architect Mies Van Der Rohe. Love it.",
+            "time" : 1472090081
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mohannad Safadi",
+            "author_url" : "https://www.google.com/maps/contrib/109922497112094773303/reviews",
+            "language" : "en",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-_J0EOvzrSOQ/AAAAAAAAAAI/AAAAAAAArBo/PPUfPQH97Cs/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "The building is one of the newest building on campus and follows the architectural style of the rest of the buildings. With that, I do beleive its function was not thought through because the biggest space in the building is not used as much as the basement which to some extent looks like a dungeon. Personally they put so much money in the building they should have found a different style for the function.",
+            "time" : 1441467107
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erik Nye",
+            "author_url" : "https://www.google.com/maps/contrib/118313514935636243406/reviews",
+            "language" : "en",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Q4QxzOIGT9E/AAAAAAAAAAI/AAAAAAAAEYA/2l9DUjZAqxA/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "Mies does it again. The open floor plan is brilliant in its simplicity.",
+            "time" : 1456029055
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8079749452841531919",
+      "utc_offset" : -360,
+      "vicinity" : "3360 South State Street, Chicago",
+      "website" : "http://arch.iit.edu/about/sr-crown-hall"
+   },
+   "status" : "OK"
+}
