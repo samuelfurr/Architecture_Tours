@@ -41,17 +41,17 @@ import java.util.ArrayList;
 
 public class PullNearbyPlaces extends  AsyncTask<String, Void, ArrayList<ListCard> >{
 
-    ArrayList<String> nameArray = new ArrayList<>(); //List of Names
-    ArrayList<String> descriptionArray = new ArrayList<>(); //List of Descriptions
-    ArrayList<Bitmap> photoArray = new ArrayList<>(); //List of Photos
-    ArrayList<ListCard> listCardList = new ArrayList<>(); //List of ListCards
-    ArrayList<LatLng> latLngs = new ArrayList<>(); //List of LatLng objects
+    private ArrayList<String> nameArray = new ArrayList<>(); //List of Names
+    private ArrayList<String> descriptionArray = new ArrayList<>(); //List of Descriptions
+    private ArrayList<Bitmap> photoArray = new ArrayList<>(); //List of Photos
+    private ArrayList<ListCard> listCardList = new ArrayList<>(); //List of ListCards
+    private ArrayList<LatLng> latLngs = new ArrayList<>(); //List of LatLng objects
 
         protected ArrayList<ListCard> doInBackground(String... s)
         {
             String u = CardList.PLACES_SEARCH_URL; //URL for places to search
             String vicinity = "";
-            HttpURLConnection urlConnection = null;
+            HttpURLConnection urlConnection;
             try
             {
                 URL url = new URL(u);
@@ -69,7 +69,7 @@ public class PullNearbyPlaces extends  AsyncTask<String, Void, ArrayList<ListCar
                         BufferedReader bReader = new BufferedReader(new InputStreamReader(inStream, "utf-8"), 8);
                         StringBuilder sBuilder = new StringBuilder();
 
-                        String line = null;
+                        String line;
                         while ((line = bReader.readLine()) != null) {
                             sBuilder.append(line + "\n");
                         }
@@ -82,11 +82,11 @@ public class PullNearbyPlaces extends  AsyncTask<String, Void, ArrayList<ListCar
             }
             catch (MalformedURLException mue)
             {
-
+                mue.printStackTrace();
             }
             catch (IOException ioe)
             {
-
+                ioe.printStackTrace();
             }
 
             String buildings = "";
@@ -124,7 +124,7 @@ public class PullNearbyPlaces extends  AsyncTask<String, Void, ArrayList<ListCar
                         BufferedReader bReader = new BufferedReader(new InputStreamReader(inStream, "utf-8"), 8);
                         StringBuilder sBuilder = new StringBuilder();
 
-                        String line = null;
+                        String line;
                         while ((line = bReader.readLine()) != null) {
                             sBuilder.append(line + "\n");
                         }
@@ -180,7 +180,7 @@ public class PullNearbyPlaces extends  AsyncTask<String, Void, ArrayList<ListCar
                             if (inStream != null) {
                                 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inStream));
 
-                                String line = "";
+                                String line;
                                 while ((line = bufferedReader.readLine()) != null) {
                                     html += line;
                                 }
@@ -234,7 +234,7 @@ public class PullNearbyPlaces extends  AsyncTask<String, Void, ArrayList<ListCar
             }
             catch(JSONException joe)
             {
-
+                joe.printStackTrace();
             }
             for(int z = 0; z < nameArray.size(); z ++) //creates the array of ListCard objects
             {

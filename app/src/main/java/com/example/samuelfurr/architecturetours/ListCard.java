@@ -11,12 +11,12 @@ import java.util.List;
  * Created by Samuel Furr on 11/5/2016.
  */
 public class ListCard {
-    String buildingName;
-    String info;
-    Bitmap image;
-    LatLng latLng;
-    int idNumber = 0;
-    static int idTracker = 0;
+    private String buildingName;
+    private String info;
+    private Bitmap image;
+    private LatLng latLng;
+    private int idNumber = 0;
+    private static int idTracker = 0;
     public static List<ListCard> cardList = new ArrayList<>();
 
     public ListCard(String name, String i, Bitmap img)
